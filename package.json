@@ -1,0 +1,16 @@
+{
+  "name": "webtoon-psd-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./script.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@webtoon/psd": "^0.3.0"
+  }
+}
